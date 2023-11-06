@@ -1,0 +1,45 @@
+.textedit{
+    text-align: center;
+    word-spacing: 5px;
+    font-size: 25px;
+    font-weight: 700;
+    color: rgba(255, 255, 0, 0.619);
+    font-style: italic;
+}
+.text-edit{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    word-spacing: 4px;
+    margin:30px;
+    color: rgba(255, 255, 0, 0.619);
+    font-style: oblique;
+}
+
+
+
+ .bodyedit{
+    background-color:rgb(105, 39, 105)
+     ;
+}
+
+.buttonstyle{
+    background-color: rgba(255, 255, 0, 0.653);
+    color: black;
+    border-radius:10%;
+    border:2px solid yellow;
+}
+.img-edit{
+    height: 170px;
+}
+.textstyle{
+    color: black;
+    font-size: 15px;
+    font-weight: 400;
+}
+.hredit{
+    width:50%; 
+    margin:auto; 
+    height:30px;
+    color: rgba(255, 255, 0, 0.742); 
+}
